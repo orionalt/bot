@@ -1,0 +1,42 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nypsi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "author": "tekoh",
+  "license": "ISC",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.2",
+    "better-sqlite3": "^7.4.3",
+    "bufferutil": "^4.0.3",
+    "discord.js": "^13.0.0",
+    "express": "^4.17.1",
+    "fast-sort": "^3.0.3",
+    "figlet": "^1.5.2",
+    "imgur": "^1.0.2",
+    "is-image-url": "^1.1.8",
+    "mc-names": "^1.0.1",
+    "node-fetch": "^2.6.5",
+    "shuffle-array": "^1.0.1",
+    "table": "6.7",
+    "tar": "^6.1.11",
+    "urban-dictionary": "^3.0.2",
+    "utf-8-validate": "^5.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "prettier": "2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekoh/nypsi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tekoh/nypsi/issues"
+  },
+  "homepage": "https://github.com/tekoh/nypsi#readme"
+}
